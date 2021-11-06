@@ -1,0 +1,10 @@
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.exe.config
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.exe
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\bin\Debug\FinReportWebServiceClient.pdb
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.csproj.AssemblyReference.cache
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.Properties.Resources.resources
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.csproj.GenerateResource.cache
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.exe
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.pdb
+C:\Users\alekt\source\repos\Lab2(attempt_4)\FinReportWebServiceClient\obj\Debug\FinReportWebServiceClient.Form1.resources
